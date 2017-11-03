@@ -1,0 +1,9 @@
+:host /deep/ input{
+   display:none
+  }
+
+:host(.input-focus){
+  outline: none;
+  border: 1px solid #4d90fe;
+  box-shadow: 2px 2px 5px #4d90fe;
+}  
